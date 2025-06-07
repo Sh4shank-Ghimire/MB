@@ -17,7 +17,7 @@ This project was developed for the **Division Forest Office (DFO), Kathmandu**, 
 ## 🧩 Features
 
 - 🔗 Each tree has a **unique web page** generated from Excel data.
-- 📸 Pages contain local and botanical names, DBH, height, GPS coordinates, family, and significance.
+- 📸 Pages contain local and botanical names, DBH, height, family, and significance.
 - 📱 Each page is linked via a **QR code**, placed physically on or near the tree for easy scanning.
 - 🎨 Designed with a clean, mobile-friendly layout using a custom `baseurl.html` layout.
 
